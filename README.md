@@ -8,7 +8,7 @@ As LLMs (or *orbuculum* to close friends) become increasingly capable, I'm explo
 
 - 🌱 **Learning:** Kubernetes, Rust
 - 🛠️ **Stack:** Proxmox, Docker Swarm, OpenTofu, Ansible
-- 🧪 **Working on:** Sharing parts of my homelab and IaC projects, writing articles, and building custom tools (hopefully here soon! 🙂)
+- 🧪 **Working on:** Sharing parts of my homelab, IaC projects, writing articles, and building custom tools (hopefully here soon! 🙂)
 
 
 <!--
